@@ -1,1 +1,2 @@
-git is awesome!
+Git is really powerful
+new line
